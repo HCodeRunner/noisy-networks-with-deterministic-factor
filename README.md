@@ -1,4 +1,4 @@
-# noisy-networks-with-deterministic-factor
+# improved noisy-networks
 
 This is all the experimental code related to paper which aims to improve NoisyNet-DQN performance.
 
